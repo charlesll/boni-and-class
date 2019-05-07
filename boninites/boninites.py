@@ -1,3 +1,6 @@
+# Copyright (C) 2019 Le Losq, Valetich
+# See License.md file for licensing
+
 # to impute missing values
 from sklearn import impute#SimpleImputer, MissingIndicator
 from sklearn import preprocessing
