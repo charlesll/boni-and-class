@@ -11,15 +11,16 @@ It is a small wrapper of scikit-learn algorithms that allows using it easily.
 
 # Requirements
  - Python 3.6 or higher
+ - Jupyter notebooks
  - sklearn
  - numpy
  - pandas
  - matplotlib
 
 # Usage
-
 1. Download the current repository and unzip it somewhere;
-2. See the Jupyter notebook and the documentation of the boninites.boninite() method
+2. Install a Python distribution with Jupyter notebooks; see for instance https://www.anaconda.com/distribution/ and related documentation;
+3. Launch your Jupyter server (read [Jupyter documentation](https://jupyter-notebook.readthedocs.io/en/stable/)). Open the Jupyter notebook and run the code. Further specific documentation is provided for boninites.boninite(), call help(boninites.boninite) in a Python REPL or Jupyter cell.
 
 # Licence
 See LICENCE.md
