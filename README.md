@@ -3,7 +3,7 @@ Classification of boninite magmas based on major and trace elements.
 
 Supplementary code to the article:
 
-Valetich, Le Losq, Arculus, Umino and Mavrogenes, 2019, Compositions and classification of fractionated boninite series melts from the Izu-Bonin-Mariana arc, Journal of Petrology.
+Valetich, Le Losq, Arculus, Umino and Mavrogenes. Compositions and classification of fractionated boninite series melts from the Izu-Bonin-Mariana arc, Journal of Petrology. Journal of Petrology, Volume 62, Issue 2, February 2021, egab013, https://doi.org/10.1093/petrology/egab013
 
 # Requirements
  - Python 3.6 or higher
@@ -16,7 +16,7 @@ Valetich, Le Losq, Arculus, Umino and Mavrogenes, 2019, Compositions and classif
 
 # Data
 Necessary data provided in csv files are available from the following studies:
- - Valetich et al. 2019, Compositions and classification of fractionated boninite series melts from the Izu-Bonin-Mariana arc, Journal of Petrology.
+ - Valetich et al. 2021, Compositions and classification of fractionated boninite series melts from the Izu-Bonin-Mariana arc, Journal of Petrology.
  - Umino et al. 2015, Thermal and chemical evolution of the subarc mantle revealed by spinel-hosted melt inclusions in boninite from the Ogasawara (Bonin), Geology
  43 (2): 151-154. [https://doi.org/10.1130/G36191.1](https://doi.org/10.1130/G36191.1)
  - Umino et al. 2018, Did boninite originate from the heterogeneous mantle with recycled ancient slab? Island Arc 27, e12221. [https://doi.org/10.1111/iar.12221](https://doi.org/10.1111/iar.12221)
